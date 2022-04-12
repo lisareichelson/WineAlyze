@@ -1,9 +1,3 @@
-var express = require('express');
-var router = express.Router();
-
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
-});
-
-module.exports = router;
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a10e04388d9137637141d2c95441502bc17402c10d88ed0287015f482c6ee8
+size 205

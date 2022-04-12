@@ -1,9 +1,3 @@
-var express = require('express');
-var router = express.Router();
-
-/* GET users listing. */
-router.get('/', function(req, res, next) {
-  res.send('respond with a resource');
-});
-
-module.exports = router;
+version https://git-lfs.github.com/spec/v1
+oid sha256:b490d897c4ba01cd926744448b86d9e97a35d0f9c545d633dd0791cdd84a38b5
+size 203
